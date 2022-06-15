@@ -1,0 +1,24 @@
+
+.skills {
+  margin-left: 450px;
+  margin-bottom: 10px;
+}
+  
+ .title {
+  font-size: 50px;
+  color: #000;
+  text-shadow: 0px 0px 20px white;
+  margin-top: 5px;
+}
+  
+ ul {
+  color: white !important;
+  margin-left: 10px;
+  line-height: 2;
+  text-shadow: 0px 0px 20px black !important;
+}
+  
+
+.mail-github {
+  color: white;
+}
